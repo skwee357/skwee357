@@ -4,14 +4,15 @@ My name is Dmitry and I'm a Software Engineer from 🇮🇱!
 This is my my homepage in which you can find links to different repositories as well as information about me.
 
 [About Me](#about-me)
+
 [Common Questions](#common-questions)
+
 [List of repos from blogs or talks](#list-of-repos-from-blogs-and-talks)
 
 ## 💁‍♂️ About Me
 I'm a Software Engineer from Israel. Recently I'm interested in TypeScript and Rust, as well as little bit of Go.
+
 I have a blog, which you can find here 👉 https://yieldcode.blog/. You can also visit the [About Me](https://yieldcode.blog/about-me/) section to find more about my experiences.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kudmitry/)
-Follow me on [Twitter](https://twitter.com/skwee357)
 
 ## 💬 Common Questions
 ### I want your dotfiles
@@ -31,7 +32,11 @@ The complementary repository for my blog post [NodeJS Native Modules vs WASM](ht
 
 ## 📫 How to reach me
 To connect professionally use [LinkedIn](https://www.linkedin.com/in/kudmitry/)
+
 For random, 280 characters long, thoughts and opinions, follow me on [Twitter](https://twitter.com/skwee357)
+
 For professional content, bookmark my blog [yield code();](https://yieldcode.blog/)
+
 For a monthly updates, subscribe to my newsletter [yield news();](https://yieldcode.blog/newsletter/)
+
 For email, please mail me at [me(at)kudmitry.com](mailto:me@kudmitry.com)
