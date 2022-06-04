@@ -37,6 +37,8 @@ For random, 280 characters long, thoughts and opinions, follow me on [Twitter](h
 
 For professional content, bookmark my blog [yield code();](https://yieldcode.blog/)
 
-For a monthly updates, subscribe to my newsletter [yield news();](https://yieldcode.blog/newsletter/)
+For minimalism, self development and productivity content, bookmark my blog [Jiko Kaizen](https://jikokaizen.blog/)
+
+For a monthly updates, subscribe to my newsletter [Jiko](https://www.getrevue.co/profile/kudmitry)
 
 For email, please mail me at [me(at)kudmitry.com](mailto:me@kudmitry.com)
