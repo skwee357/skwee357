@@ -20,6 +20,7 @@ If you are interested in my `.dotfiles` you can find them in my [dotfiles repo](
 
 ### What keyboard do you use?
 I use a custom made DZ60 Rev3.0. The layout can be found in my [dz60_layout repo](https://github.com/skwee357/dz60_layout)
+Recently, I've also started to use Keychron K7 for the office. I remap keys with Karabiner Elements for MacOS. Config similar to my DZ60 and can be found in my dotfiles.
 
 ## 📝 List of repos from blogs and talks
 If you've read one of my blog posts or attended one of my talks and interested in find the complementary repository, below is the list.
@@ -29,6 +30,9 @@ The complementary repository for my blog post [Supercharge Your NodeJS With Rust
 
 ### Blog Post: NodeJS Native Modules vs WASM
 The complementary repository for my blog post [NodeJS Native Modules vs WASM](https://yieldcode.blog/native-rust-wasm/) can be found here 👉 [rust-native-vs-wasm](https://github.com/skwee357/rust-native-vs-wasm)
+
+### [JSNation 2022](https://jsnation.com/) Talk - Supercharge your NodeJS with Rust
+Based on the above two blog posts and their repositories.
 
 ## 📫 How to reach me
 To connect professionally use [LinkedIn](https://www.linkedin.com/in/kudmitry/)
