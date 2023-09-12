@@ -4,10 +4,14 @@ My name is Dmitry and I'm a Software Engineer.
 This is my my homepage in which you can find links to different repositories as well as information about me.
 
 [Homepage](https://www.kudmitry.com/)
+
 [Technical Blog](https://www.yieldcode.blog/)
+
 [Everything Else Blog](https://www.jikokaizen.blog/)
 
+
 [.dotfiles](https://github.com/skwee357/dotfiles)
+
 
 [List of repos from blogs or talks](#list-of-repos-from-blogs-and-talks)
 
