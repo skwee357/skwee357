@@ -1,27 +1,17 @@
 # Hi there and welcome 👋
 
-My name is Dmitry and I'm a Software Engineer from 🇮🇱!
+My name is Dmitry and I'm a Software Engineer.
 This is my my homepage in which you can find links to different repositories as well as information about me.
 
-[About Me](#about-me)
+[Homepage](https://www.kudmitry.com/)
+[Technical Blog](https://www.yieldcode.blog/)
+[Everything Else Blog](https://www.jikokaizen.blog/)
 
-[Common Questions](#common-questions)
+[.dotfiles](https://github.com/skwee357/dotfiles)
 
 [List of repos from blogs or talks](#list-of-repos-from-blogs-and-talks)
 
-## 💁‍♂️ About Me
-I'm a Software Engineer from Israel. Recently I'm interested in TypeScript and Rust, as well as little bit of Go.
-
-I have a blog, which you can find here 👉 https://yieldcode.blog/. You can also visit the [About Me](https://yieldcode.blog/about-me/) section to find more about my experiences.
-
-## 💬 Common Questions
-### I want your dotfiles
-If you are interested in my `.dotfiles` you can find them in my [dotfiles repo](https://github.com/skwee357/dotfiles)
-
-### What keyboard do you use?
-I use a custom made DZ60 Rev3.0. The layout can be found in my [dz60_layout repo](https://github.com/skwee357/dz60_layout)
-
-Recently, I've also started to use Keychron K7 for the office. I remap keys with Karabiner Elements for MacOS. Config similar to my DZ60 and can be found in my dotfiles.
+## 👈 Make sure to check out my Twitter/Mastodon Links
 
 ## 📝 List of repos from blogs and talks
 If you've read one of my blog posts or attended one of my talks and interested in find the complementary repository, below is the list.
@@ -34,16 +24,3 @@ The complementary repository for my blog post [NodeJS Native Modules vs WASM](ht
 
 ### [JSNation 2022](https://jsnation.com/) Talk - Supercharge your NodeJS with Rust
 Based on the above two blog posts and their repositories.
-
-## 📫 How to reach me
-To connect professionally use [LinkedIn](https://www.linkedin.com/in/kudmitry/)
-
-For random, 280 characters long, thoughts and opinions, follow me on [Twitter](https://twitter.com/skwee357)
-
-For professional content, bookmark my blog [yield code();](https://yieldcode.blog/)
-
-For minimalism, self development and productivity content, bookmark my blog [Jiko Kaizen](https://jikokaizen.blog/)
-
-For a monthly updates, subscribe to my newsletter [yield news();](https://yieldnews.substack.com/)
-
-For email, please mail me at [contact(at)yieldcode.blog](mailto:contact@yieldcode.blog)
