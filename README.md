@@ -7,10 +7,6 @@ This is my homepage in which you can find links to different repositories as wel
 
 [Technical Blog](https://yieldcode.blog/)
 
-[Entrepreneurship Blog](https://thesolopreneur.blog/)
-
-[Everything Else Blog](https://jikokaizen.blog/)
-
 [.dotfiles](https://github.com/skwee357/dotfiles)
 
 [List of repos from blogs or talks](#list-of-repos-from-blogs-and-talks)
