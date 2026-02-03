@@ -11,8 +11,6 @@ This is my homepage in which you can find links to different repositories as wel
 
 [List of repos from blogs or talks](#list-of-repos-from-blogs-and-talks)
 
-## 👈 Make sure to check out my Twitter/Mastodon Links
-
 ## 📝 List of repos from blogs and talks
 
 If you've read one of my blog posts or attended one of my talks and interested in find the complementary repository, below is the list.
